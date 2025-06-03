@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Parmar</h1>
-<h3 align="center">A passionate React Native Developer</h3>
+<h3 align="center">A passionate React & React Native Developer</h3>
 
 
 - 🌱 I’m currently learning **React Native**
