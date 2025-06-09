@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React & React Native Developer</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native with Native Modules**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vishal-6820?tab=repositories)
 
