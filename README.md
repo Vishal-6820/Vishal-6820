@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vishal-6820?tab=repositories)
 
-- 📫 How to reach me **parmarvshesh97@gmail.com**
+- 📫 How to reach me **parmarvishesh97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
